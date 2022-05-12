@@ -7,6 +7,10 @@
 
 Либо скачать APK файл по ссылке: https://disk.yandex.ru/d/HbftohxnffMPXg
 
+XML файлы находятся по пути /app/src/main/res/layout/
+
+Файлы с кодом Java можно найти в 
+
 Версия Android 6.0
 
 Версия JDK 1.8
