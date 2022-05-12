@@ -9,7 +9,7 @@
 
 XML файлы находятся по пути /app/src/main/res/layout/
 
-Файлы с кодом Java можно найти в 
+Файлы с кодом Java можно найти в app/src/main/java/com/example/musicplayer/
 
 Версия Android 6.0
 
